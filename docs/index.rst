@@ -2,7 +2,7 @@ Welcome to ArmaFriday - HQ
 =========================================================================
 
 =================================================
-About the ArmaFriday
+About ArmaFriday
 =================================================
 
 Arma Friday [AF] is an ARMA 3 event that occurs every Friday night between 0730 PM EST and 1100 PM EST.
