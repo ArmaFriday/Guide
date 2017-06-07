@@ -1,21 +1,37 @@
-.. ArmaFriday documentation master file, created by
-   sphinx-quickstart on Tue Jun  6 15:27:31 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to ArmaFriday - HQ
+=========================================================================
 
-Welcome to ArmaFriday's documentation!
-======================================
+=================================================
+About the ArmaFriday
+=================================================
+
+Arma Friday [AF] is an ARMA 3 event that occurs every Friday night between 0730 PM EST and 1100 PM EST.
+We require no loyalty to our "group" from you to join or participate. Only that you meet the acceptance criteria.
+
+If you are interested, feel free to check out `armafriday.com`_
+
+.. _armafriday.com: http://www.armafriday.com
+
+=================================================
+Information:
+=================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: ArmaFriday Information
 
+   about/structure
+   about/unit_roster
+   about/distinctions
+   about/operational_history
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Manuals
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   manuals/roe
+   manuals/squad_and_fireteam
+   manuals/formations
+   manuals/urban_warfare
+   manuals/basic_medical
+   manuals/communication
