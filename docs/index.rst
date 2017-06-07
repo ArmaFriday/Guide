@@ -9,6 +9,7 @@ Welcome to ArmaFriday's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
 
 
 
