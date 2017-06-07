@@ -32,6 +32,14 @@ Information:
    manuals/roe
    manuals/squad_and_fireteam
    manuals/formations
+   manuals/battle_drills
    manuals/urban_warfare
-   manuals/basic_medical
    manuals/communication
+   manuals/infantry_radio_manual
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Other
+
+  other/operational_report_guide
+  other/feedback_links
