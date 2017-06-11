@@ -45,8 +45,6 @@ Excellent contact reports by MRF. Heightened the overall squad situational aware
 
 Intel..
 """""""""""""""""
-Excellent contact reports by MRF. Heightened the overall squad situational awareness.
-
 `Throwing "Bozo" off a balcony <https://clips.twitch.tv/HomelyTalentedFalconOSkomodo>`_
 `Bozo is getting cheeky <https://clips.twitch.tv/VibrantManlyTurtleAllenHuhu>`_
 `Awesome beach landings and MRF comms <https://clips.twitch.tv/NurturingYummyFennelYouWHY>`_
@@ -99,7 +97,4 @@ Screenshots
    :height: 500px
 
 .. image:: http://armafriday.com/intel/screenshots/warlord/blacksheep/7.jpg
-   :height: 500px
-
-.. image:: http://armafriday.com/intel/screenshots/warlord/blacksheep/8.jpg
    :height: 500px
