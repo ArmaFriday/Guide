@@ -45,9 +45,9 @@ Excellent contact reports by MRF. Heightened the overall squad situational aware
 
 Intel..
 """""""""""""""""
-`Throwing "Bozo" off a balcony <https://clips.twitch.tv/HomelyTalentedFalconOSkomodo>`_
-`Bozo is getting cheeky <https://clips.twitch.tv/VibrantManlyTurtleAllenHuhu>`_
-`Awesome beach landings and MRF comms <https://clips.twitch.tv/NurturingYummyFennelYouWHY>`_
+* `Throwing "Bozo" off a balcony <https://clips.twitch.tv/HomelyTalentedFalconOSkomodo>`_
+* `Bozo is getting cheeky <https://clips.twitch.tv/VibrantManlyTurtleAllenHuhu>`_
+* `Awesome beach landings and MRF comms <https://clips.twitch.tv/NurturingYummyFennelYouWHY>`_
 
 =================================================
 Team Retrospective

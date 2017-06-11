@@ -74,9 +74,9 @@ The bridge was secured and Russians troops were observed guarding the base of th
 
 Intel..
 """""""""""""""""
-`Tavu invasion off a balcony <https://clips.twitch.tv/AuspiciousCrepuscularEggArgieB8>`_
-`Staggered column marching songs <https://clips.twitch.tv/ArtsyGlutenFreeLapwingWow>`_
-`Reishi comes within an inch of a mine <https://clips.twitch.tv/GorgeousShakingPigeonBabyRage>`_
+* `Tavu invasion off a balcony <https://clips.twitch.tv/AuspiciousCrepuscularEggArgieB8>`_
+* `Staggered column marching songs <https://clips.twitch.tv/ArtsyGlutenFreeLapwingWow>`_
+* `Reishi comes within an inch of a mine <https://clips.twitch.tv/GorgeousShakingPigeonBabyRage>`_
 
 =================================================
 Team Retrospective
