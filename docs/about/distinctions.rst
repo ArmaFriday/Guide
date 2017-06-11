@@ -9,6 +9,7 @@ Campaign Ribbons
 These ribbons are given to players who have had a significant deployment in an ArmaFriday campaign, spanning across several weeks or even months.
 
 **Operation Dessert Storm**
+
 .. image:: http://armafriday.com/intel/dinstinguishments/dessert_storm.png
 
 Recipients: Whiplash, TypicalPhineas, Saboathi, Armedman84 Stalker, Korde, Schaduw, Foozlekiller, Coletrane, Skifton, Raz, Montana, MRF, Raytheon, Ironclaws, Frethen, Tantasqua, Kilthor, Reishimu, SillyRabbit, Teo, Jyntuu
