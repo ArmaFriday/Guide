@@ -12,4 +12,4 @@ These ribbons are given to players who have had a significant deployment in an A
 
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
 
-Recipients: Whiplash, TypicalPhineas, Saboathi, Armedman84 Stalker, Korde, Schaduw, Foozlekiller, Coletrane, Skifton, Raz, Montana, MRF, Raytheon, Ironclaws, Frethen, Tantasqua, Kilthor, Reishimu, SillyRabbit, Teo, Jyntuu
+* **Recipients:** Whiplash, TypicalPhineas, Saboathi, Armedman84 Stalker, Korde, Schaduw, Foozlekiller, Coletrane, Skifton, Raz, Montana, MRF, Raytheon, Ironclaws, Frethen, Tantasqua, Kilthor, Reishimu, SillyRabbit, Teo, Jyntuu
