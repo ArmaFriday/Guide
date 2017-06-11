@@ -107,16 +107,16 @@ Screenshots
 .. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/3.jpg
    :height: 500px
 
-.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/4.jpg
+.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/4.png
    :height: 500px
 
-.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/5.jpg
+.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/5.png
    :height: 500px
 
-.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/6.jpg
+.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/6.png
    :height: 500px
 
-.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/7.jpg
+.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/7.png
    :height: 500px
 
 .. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/8.jpg
