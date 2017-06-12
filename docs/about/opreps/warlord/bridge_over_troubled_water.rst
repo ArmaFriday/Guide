@@ -1,4 +1,4 @@
-02/09/2017 - #2: Bridge over troubled water
+09/06/2017 - #2: Bridge over troubled water
 =========================================================================
 Date of Operation: Friday June 9th, 2017
 Time of Operation: 0730 PM EST to 1120 PM EST
