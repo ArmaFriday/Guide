@@ -6,6 +6,6 @@ A list of our members and their distinctions:
 Whiplash
 """""""""""""""""
 .. image:: http://armafriday.com/intel/distinguishments/recruiter.png
-.. class:: center
+  :width: 30%
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-.. class:: center
+  :width: 30%
