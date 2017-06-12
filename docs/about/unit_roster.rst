@@ -1,17 +1,7 @@
 Unit Roster
 =========================================================================
-
-A list of our members and their distinctions:
-
-Whiplash
-"""""""""""""""""
-.. image:: http://armafriday.com/intel/distinguishments/recruiter.png
-  :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
-.. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-  :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
-
-+------------+------------+-----------+ 
-| Missions   | Campaigns  | No shows  | 
-+============+============+===========+ 
-| 2          | 2          | 0         | 
-+------------+------------+-----------+ 
+A list of our members:
+.. raw:: html
+    <embed>
+        <iframe src="https://docs.google.com/spreadsheets/d/1mj8S-fOnc1Hvx5K25wttQv5JvANGLJFKMvsjoKcZnmQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    </embed>
