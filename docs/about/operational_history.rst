@@ -14,6 +14,7 @@ Operation Warlord is a follow-up campaign of Operation Dessert Storm. The main p
 .. toctree::
    :maxdepth: 1
 
+   opreps/warlord/something_airy_this_way_comes
    opreps/warlord/bridge_over_troubled_water
    opreps/warlord/blacksheep
 
