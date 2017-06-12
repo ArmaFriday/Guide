@@ -7,11 +7,20 @@ Time of Operation: 0900PM EST to 1120 PM EST
 Mission Details
 =================================================
 
+**Story Context**
+
 Last week's operation "Bridge over troubled water" saw us return to Belavu island for a significant attack on Johny's forces in an attempt to curb his offensive capabilities, diminish his capacity for raiding the Tavunakan people and force johny's hand into diplomacy for peace. Part of our objective was to secure "Belavu Bridge", the only reliable infrastructure connecting Belavu Island to Katkoula Island. What we found on the other side were Russians.
 
-Upon returning to base we have since learned what the Russian angle is. Frethen was watching his favourite TV show when it was interrupted by "breaking news"; a press conference by Russian President Boris Sokolov announcing Russian deployment to the Island of Belavu "to ensure stability in the area and guarantee the fair treatment of the Belavu people". Apple sauce for sure.
+Upon returning to base we have since learned what the Russian angle is. Frethen was watching his favourite TV show when it was interrupted by "breaking news"; a press conference by Russian President Boris Sokolov announcing Russian deployment to the Island of Belavu "to ensure stability in the area and guarantee the fair treatment of the Belavu people". Apple sauce for sure. This was followed by press conferences of Western leaders relaying pretty much the same message for the Tavunakan people, while simultaniously condemning Belavu's recent actions.
 
-According to Command there was no way the Russians could've deployed in a matter of days. This means the increase in merchant shipping from Russia to Tanoa was in fact part of a Russian operation to 
+All this has a few implications:
+
+* The "increased" merchant shipping from Russia to Tanoa that originally brought us to the island is most likely part of a paramilitary operation, the motive of which is still unknown, but now legitimized through pupetting the Baluvan people under warlord Johny.
+* We are now wrapped up in a local conflict between Tavunaka and Belavu which is brought to the international stage.
+
+**Mission Objectives**
+
+...
 
 
 Execution..
