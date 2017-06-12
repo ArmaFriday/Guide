@@ -11,7 +11,7 @@ Whiplash
   :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
 +------------+------------+-----------+ 
-| Missions   | Campaigns   | No shows | 
+| Missions   | Campaigns  | No shows  | 
 +============+============+===========+ 
 | 2          | 2          | 0         | 
 +------------+------------+-----------+ 
