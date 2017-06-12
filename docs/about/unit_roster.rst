@@ -1,14 +1,8 @@
 Unit Roster
 =========================================================================
 
-=================================================
-Foreword
-=================================================
+A list of our members and their distinctions:
 
-blablabla
-
-=================================================
-Another Word
-=================================================
-
-blablabla
+Whiplash
+"""""""""""""""""
+.. image:: http://armafriday.com/intel/distinguishments/recruiter.png .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
