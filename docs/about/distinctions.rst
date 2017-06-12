@@ -14,6 +14,7 @@ Recruiter Ribbon..
 .. image:: http://armafriday.com/intel/distinguishments/recruiter.png
 
 **Recipients:**
+
 * Foozlekiller: for bringing in Skifton and Coletrane
 * Stalker: for bringing in Raz and Montana
 * Schaduw: for bringing in MRF
