@@ -20,7 +20,6 @@ Information:
    :maxdepth: 1
    :caption: ArmaFriday Information
 
-   about/structure
    about/unit_roster
    about/distinctions
    about/operational_history
