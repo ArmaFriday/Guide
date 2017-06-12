@@ -11,7 +11,7 @@ Last week's operation "Bridge over troubled water" saw us return to Belavu islan
 
 Upon returning to base we have since learned what the Russian angle is. Frethen was watching his favourite TV show when it was interrupted by "breaking news"; a press conference by Russian President Boris Sokolov announcing Russian deployment to the Island of Belavu "to ensure stability in the area and guarantee the fair treatment of the Belavu people". Apple sauce for sure.
 
-There was no way
+According to Command there was no way the Russians could've deployed in a matter of days. This means the increase in merchant shipping from Russia to Tanoa was in fact part of a Russian operation to 
 
 
 Execution..
