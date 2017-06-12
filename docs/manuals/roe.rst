@@ -11,7 +11,7 @@ These rules of engagement apply unless told otherwise:
 
 * You can always act to defend yourself and other players
 * You may always return fire when fired upon
-* If the sitation permits, always as for clearance to engage
+* If the sitation permits, always ask for clearance to engage
 
 =================================================
 Weapons "Hold"
