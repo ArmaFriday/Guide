@@ -18,6 +18,11 @@ All this has a few implications:
 * The "increased" merchant shipping from Russia to Tanoa that originally brought us to the island is most likely part of a paramilitary operation, the motive of which is still unknown, but now legitimized through pupetting the Baluvan people under warlord Johny.
 * We are now wrapped up in a local conflict between Tavunaka and Belavu which is brought to the international stage.
 
-**Mission Objectives**
+We have it on good authority from insiders that there is significant unrest in Johny's hierarchy due to our operations on Belavu island. Now that Johny has most likely retreated to Katkoula island to the South of Belavu, there is sort of a leadership vacuum among the forces in Belavu island. We have reason to believe that if we continue to weaken johny's position, a more pro-western officer might rise to the occasion within Johny's forces who can shake up whatever deal Johny made with the russians. At the same time, we must avoid direct confrontation with Russian forces.
 
-...
+**Mission Objectives: Covert Special Operation**
+
+.. danger::
+  Operatives will **not** be protected by the Geneva Convention. The existance of this operation will be denied by Western governments.
+
+* Paradrop on South-Eastern Katkoula under the cover of darkness.
