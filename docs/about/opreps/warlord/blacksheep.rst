@@ -59,6 +59,7 @@ What went well
 * Communication was excellent within the squad - as always MRF did great callouts and I heard many other players give good callouts as well. Covering our cardinal directions save us in a situation. I covered the rear for majority of mission and stopped the first patrol who ran up to us when we were on the rocks by sticking to my directive. Implementation of stealth worked to our advantage and should be emphasized in most missions to keep gameplay tactical.
 * The mission went smoothly from a team perspective. The squad lead and teams coordinated well. As the medic, I had some time available which I used to try and support the squad lead by providing them additional information and ideas. I hope that was valuable.
 * People followed leadership's direction, people played their roles and attempted to work as a team, felt as though there was more beneficial communication between fireteams and squad members.
+* Communications between fire teams and leads along with squad leader was on point. Personally, using only 1 radio channel assisted in situational awareness among the entire squad. Additionally, this method of communication fostered a more team oriented attitude as it "forced" more direct communication while simultaneously allowed each member to be aware of what was going on with the squad as a whole. 
 
 What went wrong
 """""""""""""""""
@@ -66,6 +67,7 @@ What went wrong
 * Coordination within towns is difficult when multiple fireteams are moving through on the ground. Squad movement through dense jungle got many members lost and out of formation.
 * There were a few times when the fire teams were separated by enough that they wouldn't have been able to provide fire support for one another. Resistance was light this week so there weren't any major complications caused by this, but it could cause issues in the future.
 * There was a general lack of organization during the mission that can and should be cleaned up by FTLs, There were a few people who didn't follow directions well or tried to lead when they were not the leader of the group.
+* Although it wasn't major, I feel there could be even more radio discipline for everyone to cut down on the chatter. At least for the non FTL's and SL. Very very minor point, I feel that especially while working in thick vegetation, like a jungle, we could do a bit better at keeping fire team members together.
 
 What we could do differently to improve
 """""""""""""""""
@@ -73,6 +75,7 @@ What we could do differently to improve
 * I propose a bit of practice and setup of a protocol for jungle squad movements. When clearing towns, splitting duty of support overwatch and clearing movements seemed to work well on the second town assault rather than all moving in and losing tactical view.
 * Fire teams should probably still have dedicated radio channels. Most communication within a fire team should be with direct voice, but it's good to have a second channel that can be used and not interfere with the squad level comms.
 * My team can pre-plan group movement/clearing/traveling. Should be willing to reign people in when needed.
+* Continue to work on using direct communication over radio among fire teams. I think this is very important in order to foster the feeling of working as an entire squad/platoon versus an autonomous unit.
 
 =================================================
 Screenshots
