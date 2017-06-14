@@ -25,7 +25,7 @@ We have it on good authority from insiders that there is significant unrest in J
 .. danger::
   Operatives will **not** be protected by the Geneva Convention. The existance of this operation will be denied by Western governments.
 
-* Paradrop on South-Eastern Katkoula under the cover of darkness.
+* Paradrop on South-Eastern Katkoula under the cover of darkness and wait for daybreak.
 * Secure position foxtrot for sniper overwatch
 * Assasinate Johny's Lieutenant in Lailai
 * Destroy the radio tower North East of Lailai
