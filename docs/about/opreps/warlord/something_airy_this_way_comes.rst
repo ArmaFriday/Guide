@@ -26,3 +26,9 @@ We have it on good authority from insiders that there is significant unrest in J
   Operatives will **not** be protected by the Geneva Convention. The existance of this operation will be denied by Western governments.
 
 * Paradrop on South-Eastern Katkoula under the cover of darkness.
+* Secure position foxtrot for sniper overwatch
+* Assasinate Johny's Lieutenant in Lailai
+* Destroy the radio tower North East of Lailai
+* Transition through the jungle from Lailai to the airsprit of Bala and avoid direct confrontation with forces coming from Yannuka.
+* Perform a hit-and-run on Bala airtrip, detroy Johny's cessna and other targets of value.
+* Exfiltrate at LZ Tango or otherwise
