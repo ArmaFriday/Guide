@@ -6,14 +6,14 @@ Armedman84
 =====  ============  =======
 Rank   Distinctions  A and B
 =====  ============  =======
-False  False          False
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy  False          False
 True   False          False
 False  True           False
 True   True           True
 =====  ============  =======
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+
 
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
