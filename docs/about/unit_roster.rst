@@ -3,14 +3,22 @@ Unit Roster
     
 Armedman84
 """""""""""""""""
+=====  ============  =======
+Rank   Distinctions  A and B
+=====  ============  =======
+False  False          False
+True   False          False
+False  True           False
+True   True           True
+=====  ============  =======
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    :align: left
+
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
-    :align: center
+
 
 Coletrane
 """""""""""""""""
