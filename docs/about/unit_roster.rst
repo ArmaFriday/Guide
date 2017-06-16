@@ -18,27 +18,50 @@ Distinctions
 
 ****
 
+^^^^^^^^^^^^^^^^^
 Coletrane
+^^^^^^^^^^^^^^^^^
+Rank
 """""""""""""""""
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    
 
+Distinctions
+"""""""""""""""""
+ 
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
+^^^^^^^^^^^^^^^^^
 Foozlekiller
+^^^^^^^^^^^^^^^^^
+Rank
 """""""""""""""""
 
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+
+Distinctions
+"""""""""""""""""
+ 
 .. image:: http://armafriday.com/intel/distinguishments/recruiter.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
+^^^^^^^^^^^^^^^^^
 Frethen
+^^^^^^^^^^^^^^^^^
+Rank
 """""""""""""""""
 
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+
+Distinctions
+"""""""""""""""""
+ 
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
