@@ -81,4 +81,20 @@ NCO
 
 Servant leaders of arma friday.
 
+=================================================
+Specialist Badges
+=================================================
+
+Marskman Challenge
+"""""""""""""""""
+
+Granted to those who have successfully completed the marksman challenge. Talk to Whiplash, Foozlekiller or Skifton to go through the marksman challenge.
+
+.. image:: http://armafriday.com/intel/distinguishments/marksman.png
+
+* Skifton: 40 points
+* Foozlekiller: 39 points
+* MRF: 34 points
+
+
 
