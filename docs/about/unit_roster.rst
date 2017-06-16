@@ -1,7 +1,9 @@
 Unit Roster
 =========================================================================
 
-Roster to keep track of ranks is .. _here: https://docs.google.com/spreadsheets/d/1mj8S-fOnc1Hvx5K25wttQv5JvANGLJFKMvsjoKcZnmQ/edit?usp=sharing
+Roster to keep track of ranks is `here`_
+
+.. _here: https://docs.google.com/spreadsheets/d/1mj8S-fOnc1Hvx5K25wttQv5JvANGLJFKMvsjoKcZnmQ/edit?usp=sharing
     
 
 Armedman84
