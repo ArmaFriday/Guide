@@ -43,8 +43,8 @@ Foozlekiller
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -63,8 +63,8 @@ Frethen
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -81,8 +81,8 @@ Ironclaws
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -117,8 +117,8 @@ Kilthor
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -170,8 +170,8 @@ MRF
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -298,8 +298,8 @@ Skifton
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
