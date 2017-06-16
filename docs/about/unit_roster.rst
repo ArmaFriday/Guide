@@ -16,6 +16,7 @@ Distinctions
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :width: 70px
 
 ****
 
@@ -27,6 +28,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -44,6 +46,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -63,6 +66,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -80,6 +84,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -97,6 +102,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -114,6 +120,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -131,6 +138,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -148,6 +156,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -164,6 +173,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -181,6 +191,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -198,6 +209,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -215,6 +227,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -232,6 +245,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -250,6 +264,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -268,6 +283,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -285,6 +301,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -302,6 +319,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -321,6 +339,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -337,6 +356,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -353,6 +373,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -369,6 +390,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/nco.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#nco
+    :width: 70px
 
 Distinctions
 """""""""""""""""
@@ -385,6 +407,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/nco.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#nco
+    :width: 70px
 
 Distinctions
 """""""""""""""""
