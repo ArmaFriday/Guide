@@ -9,7 +9,7 @@ Rank
 
 .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    :width: 60px
+    :width: 70px
 
 Distinctions
 """""""""""""""""
