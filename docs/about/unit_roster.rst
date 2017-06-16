@@ -3,12 +3,13 @@ Unit Roster
     
 Armedman84
 """""""""""""""""
-    Rank
+    **Rank**
 
     .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
         :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+     
 
-    Distinctions
+    **Distinctions**
 
     .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
         :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
@@ -67,13 +68,16 @@ Korde
 
 Montana
 """""""""""""""""
+    **Rank**
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    
+    .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+     
 
-.. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    **Distinctions**
+
+    .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
 MRF
 """""""""""""""""
@@ -83,13 +87,16 @@ MRF
 
 Raytheon
 """""""""""""""""
+    **Rank**
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    
-    
-.. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+     
+
+    **Distinctions**
+
+    .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
 Raz
 """""""""""""""""
@@ -99,13 +106,16 @@ Raz
 
 Reishi
 """""""""""""""""
+    **Rank**
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    
-    
-.. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+     
+
+    **Distinctions**
+
+    .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
 Saboathi
 """""""""""""""""
@@ -123,13 +133,16 @@ Schaduw
 
 SillyRabbit
 """""""""""""""""
+    **Rank**
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    
-    
-.. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+     
+
+    **Distinctions**
+
+    .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
 Skifton
 """""""""""""""""
@@ -153,19 +166,28 @@ Tantasqua
 
 Teo
 """""""""""""""""
+    **Rank**
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    
-    
-.. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+     
+
+    **Distinctions**
+
+    .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 
 TonyMo
 """""""""""""""""
+    **Rank**
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    .. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+        :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+     
+
+    **Distinctions**
+
+    none
 
 TypicalPhineas
 """""""""""""""""
