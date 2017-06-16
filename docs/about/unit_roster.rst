@@ -54,6 +54,8 @@ Distinctions
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+.. image:: http://armafriday.com/intel/distinguishments/marksman.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge  
 
 ****
 
@@ -179,6 +181,8 @@ Distinctions
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+.. image:: http://armafriday.com/intel/distinguishments/marksman.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge  
 
 ****
 
@@ -308,6 +312,8 @@ Distinctions
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+.. image:: http://armafriday.com/intel/distinguishments/marksman.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge  
 
 ****
 
