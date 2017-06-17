@@ -265,7 +265,6 @@ Distinctions
 
 Schaduw
 ^^^^^^^^^^^^^^^^^
-Dishonorable discharge
 
 Rank
 """""""""""""""""
