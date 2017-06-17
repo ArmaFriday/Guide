@@ -48,7 +48,7 @@ We have it on good authority from insiders that there is significant unrest in J
 * Assasinate Johny's Lieutenant in Lailai
 * Destroy the radio tower North East of Lailai
 * Transition through the jungle from Lailai to the airstrip of Bala and avoid direct confrontation with forces coming from Yannuka.
-* Perform a hit-and-run on Bala airtrip, detroy Johny's cessna and other targets of value.
+* Perform a hit-and-run on Bala airstrip, detroy Johny's cessna and other targets of value.
 * Exfiltrate at LZ Tango or otherwise
 
 .. image:: http://armafriday.com/intel/maps/warlord/something_airy_this_way_comes/1.jpg
