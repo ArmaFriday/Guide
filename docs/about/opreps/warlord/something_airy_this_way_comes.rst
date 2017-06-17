@@ -69,15 +69,15 @@ Team Retrospective
 
 What went well
 """""""""""""""""
-* (Whip) Excellent work by Skifton the sniper. The team had excellent overwatch and he was able to surpress the enemy preventing them from catching up with the squad. The raid on the airfield was well executed. Boom and zoom. The squad was responsive to commands. Excellent MG cover by Tantasqua and MRF.
+* (Whip) Excellent work by Skifton the sniper. The team had excellent overwatch and he was able to surpress the enemy preventing them from catching up with the squad. The raid on the airfield was well executed. Boom and zoom. The squad was responsive to commands. Excellent MG cover by Tantasqua and MRF. Personally I felt I had a good handle on the terrain we were facing and how to maneuver the team through the challenges.
 
 What went wrong
 """""""""""""""""
-* (Whip) MRF, I love you man. But a little too heavy on the voice comms. Overall very good FTL work, but we have to be careful to not occupy the squad comms with FTL instructions for too long. The team didn't respond so well to some very common squad leader level commands such as "spread out"
+* (Whip) MRF, I love you man. But a little too heavy on the voice comms. Overall very good FTL work, but we have to be careful to not occupy the squad comms with FTL instructions for too long. The team didn't respond so well to some very common squad leader level commands such as "spread out". I feel like I could improve on my Squad Leader abilities. Oftentimes I wasn't sure if I was leaving too much ambiguity or spreading the squad out too much.
 
 What we could do differently to improve
 """""""""""""""""
-* (Whip) I think we could improve our documentation a little with some light reading material that would clarify some common orders like what "Spread out" means in various situations. Perhaps also a section on voice communication.
+* (Whip) I think we could improve our documentation a little with some light reading material that would clarify some common orders like what "Spread out" means in various situations. Perhaps also a section on voice communication. Personally I could do some research on Fireteam / Squad dynamics and see how it could apply to ArmA.
 
 =================================================
 Screenshots
