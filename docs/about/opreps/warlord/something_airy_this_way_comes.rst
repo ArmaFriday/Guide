@@ -69,11 +69,11 @@ Team Retrospective
 
 What went well
 """""""""""""""""
-* (Whip) Excellent work by Skifton the sniper. The team had excellent overwatch and he was able to surpress the enemy preventing them from catching up with the squad. The raid on the airfield was well executed. Boom and zoom. The squad was responsive to commands. Excellent MG cover by Tantasqua and MRF. Personally I felt I had a good handle on the terrain we were facing and how to maneuver the team through the challenges.
+* (Whip) Excellent work by Skifton the sniper. The team had excellent overwatch and he was able to surpress the enemy preventing them from catching up with the squad. The raid on the airfield was well executed. Boom and zoom. The squad was responsive to commands. Excellent MG cover by Tantasqua and MRF. Personally I felt I had a good handle on the terrain we were facing and how to maneuver the team through the challenges. Overall very good FTL work by MRF!
 
 What went wrong
 """""""""""""""""
-* (Whip) MRF, I love you man. But a little too heavy on the voice comms. Overall very good FTL work, but we have to be careful to not occupy the squad comms with FTL instructions for too long. The team didn't respond so well to some very common squad leader level commands such as "spread out". I feel like I could improve on my Squad Leader abilities. Oftentimes I wasn't sure if I was leaving too much ambiguity or spreading the squad out too much.
+* (Whip) MRF, I love you man. But a little too heavy on the voice comms sometimes. We have to be careful to not occupy the squad comms with FTL instructions for too long and that counts for us all. The team didn't respond so well to some very common squad leader level commands such as "spread out". I feel like I could improve on my Squad Leader abilities. Oftentimes I wasn't sure if I was leaving too much ambiguity or spreading the squad out too much.
 
 What we could do differently to improve
 """""""""""""""""
