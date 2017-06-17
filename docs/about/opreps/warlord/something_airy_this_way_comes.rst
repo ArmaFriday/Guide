@@ -4,6 +4,24 @@ Date of Operation: Friday June 16th, 2017
 Time of Operation: 0900PM EST to 1120 PM EST
 
 =================================================
+Unit Details
+=================================================
+
+`Google sheet of squad makeup <https://docs.google.com/spreadsheets/d/13Ta9Ork65iUwaKerrjNKARS_my52LdeRes6wMlRg56s/edit?usp=sharing>`_
+
+* TypicalPhineas - Zeus
+* Whiplash - SL A
+* Kilthor - Medic A
+* MRF - FTL A1
+* Stalker - AT A1
+* Reishi - R A1
+* Foozlekiller - R A1
+* Frethen - R A1 
+* Tantasqua - HMG A2
+* Ironclaws - Assist. HMG A2
+* Skifton - Sniper
+
+=================================================
 Mission Details
 =================================================
 
@@ -34,3 +52,42 @@ We have it on good authority from insiders that there is significant unrest in J
 * Exfiltrate at LZ Tango or otherwise
 
 .. image:: http://armafriday.com/intel/maps/warlord/something_airy_this_way_comes/1.jpg
+
+Execution..
+"""""""""""""""""
+
+All objectives were successfully executed with minor casualties.
+
+Intel..
+"""""""""""""""""
+* `Reishi the minesweeper <https://clips.twitch.tv/ElatedBadChickpeaPanicVis>`_
+* `Hilarious moment "The immediate Threat" <https://clips.twitch.tv/AwkwardHungryGaurPartyTime>`_
+
+=================================================
+Team Retrospective
+=================================================
+
+What went well
+"""""""""""""""""
+* (Whip) Excellent work by Skifton the sniper. The team had excellent overwatch and he was able to surpress the enemy preventing them from catching up with the squad. The raid on the airfield was well executed. Boom and zoom. The squad was responsive to commands. Excellent MG cover by Tantasqua and MRF.
+
+What went wrong
+"""""""""""""""""
+* (Whip) MRF, I love you man. But a little too heavy on the voice comms. Overall very good FTL work, but we have to be careful to not occupy the squad comms with FTL instructions for too long. The team didn't respond so well to some very common squad leader level commands such as "spread out"
+
+What we could do differently to improve
+"""""""""""""""""
+* (Whip) I think we could improve our documentation a little with some light reading material that would clarify some common orders like what "Spread out" means in various situations. Perhaps also a section on voice communication.
+
+=================================================
+Screenshots
+=================================================
+
+.. image:: http://armafriday.com/intel/screenshots/warlord/something_airy_this_way_comes/1.jpg
+   :height: 500px
+
+.. image:: http://armafriday.com/intel/screenshots/warlord/something_airy_this_way_comes/2.jpg
+   :height: 500px
+
+.. image:: http://armafriday.com/intel/screenshots/warlord/something_airy_this_way_comes/3.jpg
+   :height: 500px
