@@ -37,6 +37,7 @@ We went in from the north through Saint-Julien. We encountered some patrol boats
 Intel..
 """""""""""""""""
 * `Johny gets taken out <https://clips.twitch.tv/StormyTardyLampHoneyBadger>`_
+* `Blurry radio <https://clips.twitch.tv/DullLivelyHerdPJSalt>`_
 
 =================================================
 Team Retrospective
