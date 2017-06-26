@@ -10,7 +10,7 @@ Step 1: ARMA III Setup
 Make sure you have ARMA III installed and the APEX DLC, as we use Tanoa and its assets quite often.
 
 
-Step 2: Installed our modlist
+Step 2: Install our modlist
 """""""""""""""""
 All of our mods are found in the steam workshop, make sure you are subscribed to all of the following mods:
 * `TypicalPhineas ARMA Friday Modlist <http://steamcommunity.com/sharedfiles/filedetails/?id=886075869>`_
