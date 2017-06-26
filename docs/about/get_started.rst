@@ -19,7 +19,7 @@ Step 3: Install Teamspeak3
 """""""""""""""""
 We use teamspeak 3 to facilitate our radio communications with the Task Force Radio mod. Make sure you have the `latest version of teamspeak3 <https://www.teamspeak.com/downloads.html>`_ installed as well.
  
- Step 4: Install the Teamspeak 3 Task Force Radio plugin
+Step 4: Install the Teamspeak 3 Task Force Radio plugin
 """""""""""""""""
 Download the `latest version of task force radio <https://github.com/michail-nikolaev/task-force-arma-3-radio/releases/download/0.9.12/0.9.12.zip>`_  and:
 * Extract the .zip archive
