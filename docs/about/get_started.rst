@@ -24,7 +24,7 @@ We use teamspeak 3 to facilitate our radio communications with the Task Force Ra
 Download the `latest version of task force radio <https://github.com/michail-nikolaev/task-force-arma-3-radio/releases/download/0.9.12/0.9.12.zip>`_  and:
 * Extract the .zip archive
 * Install the TFR Teamspeak Plugin by double-clicking the Plugin Installer in the @task_force_radio\teamspeak folder.
-** We recommend using the "task_force_radio.ts3_plugin" only and don't use the "task_force_radio_3.1Compat.ts3_plugin"
+* We recommend using the "task_force_radio.ts3_plugin" only and don't use the "task_force_radio_3.1Compat.ts3_plugin"
 * Make sure Caps Lock key is not used for talking in TeamSpeak
 * Turn off voice over network (VON) in ARMA 3 or change key to different than Caps Lock (to avoid voice doubling).
 
@@ -35,3 +35,11 @@ Join the ARMA Friday discord server `here <https://discord.gg/KQa9ENf>`_  and lo
  Step 6: Join the ArmaFriday ARMAIII unit (optional)
 """""""""""""""""
 Joining the ARMAIII unit will give you our amazing armpatch while you play. Click `here <https://units.arma3.com/unit/arma-friday>`_ to join up.
+
+=================================================
+Information you need to know
+=================================================
+
+Arma Friday is streamed by the `TypicalPhineas Twitch channel <https://www.twitch.tv/typicalphineas>`_. This comes with two implicit rules: We jest, joke around and have fun, but we keep our language PG-13. Phineas retains the perogative to remove any player from his stream. http://armafriday.com/#about
+
+A brief outline of what ARMA Friday is and the kind of players we are looking for can be found on `armafriday.com <http://armafriday.com/#about>`_
