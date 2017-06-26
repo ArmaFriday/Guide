@@ -19,7 +19,8 @@ Information:
 .. toctree::
    :maxdepth: 1
    :caption: ArmaFriday Information
-
+   
+   about/get_started
    about/unit_roster
    about/distinctions
    about/operational_history
