@@ -19,6 +19,7 @@ Recruiter Ribbon..
 * Stalker: for bringing in Raz and Montana
 * Schaduw: for bringing in MRF
 * Whiplash: for bringing in Ironclaws and Teo
+* TypicalPhineas: for bringing in JoeVisitor
 
 
 
