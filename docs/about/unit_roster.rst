@@ -29,8 +29,8 @@ Coletrane
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -118,6 +118,23 @@ Distinctions
 ****
 
 
+JoeVisitor
+^^^^^^^^^^^^^^^^^
+Rank
+"""""""""""""""""
+
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
+
+Distinctions
+"""""""""""""""""
+ 
+...
+
+****
+
+
 Kilthor
 ^^^^^^^^^^^^^^^^^
 Rank
@@ -141,8 +158,8 @@ Korde
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -196,8 +213,8 @@ Raytheon
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -232,10 +249,10 @@ Reishi
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
-
+    
 Distinctions
 """""""""""""""""
  
@@ -250,9 +267,10 @@ Saboathi
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
+    
 
 Distinctions
 """""""""""""""""
@@ -269,9 +287,10 @@ Schaduw
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
+    
 
 Distinctions
 """""""""""""""""
@@ -326,8 +345,8 @@ Stalker
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
@@ -363,8 +382,8 @@ Teo
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
 
 Distinctions
