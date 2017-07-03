@@ -213,8 +213,8 @@ Raytheon
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
     :width: 70px
 
 Distinctions
@@ -249,8 +249,8 @@ Reishi
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
     :width: 70px
     
 Distinctions
@@ -267,8 +267,8 @@ Saboathi
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
     :width: 70px
     
 
@@ -287,8 +287,8 @@ Schaduw
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
     :width: 70px
     
 
