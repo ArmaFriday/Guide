@@ -48,6 +48,7 @@ Intel..
 """""""""""""""""
 * `Whiplash is a goddamn war hero <https://clips.twitch.tv/BovineBravePotSwiftRage>`_
 * `Phineas "bringing the thunder" <https://clips.twitch.tv/InquisitiveRichTruffleDancingBaby>`_
+* `Boys are getting good at AT" <https://clips.twitch.tv/MotionlessStylishAirGuitarMrDestructoid>`_
 
 
 =================================================
