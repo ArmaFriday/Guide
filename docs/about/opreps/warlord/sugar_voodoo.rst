@@ -41,7 +41,7 @@ We made it about mid-way there before needing to do a tactical retreat and re-su
 
 We confired during our assault the factory was indeed repurposed for the production of chemical weapons.
 
-.. image:: http://armafriday.com/intel/maps/warlord/sugar_voodoo/1.jpg
+.. image:: http://armafriday.com/intel/maps/warlord/sugar_voodoo/1.png
    :height: 500px
 
 Intel..
@@ -63,6 +63,6 @@ Screenshots
 .. image:: http://armafriday.com/intel/screenshots/warlord/sugar_voodoo/3.jpg
    :height: 500px
 
-.. image:: http://armafriday.com/intel/screenshots/warlord/sugar_voodoo/4.png
+.. image:: http://armafriday.com/intel/screenshots/warlord/sugar_voodoo/4.jpg
    :height: 500px
 
