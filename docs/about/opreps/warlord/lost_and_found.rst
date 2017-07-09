@@ -1,4 +1,4 @@
-09/06/2017 - #6: Lost and found
+07/07/2017 - #6: Lost and found
 =========================================================================
 Date of Operation: Friday July 7th, 2017
 Time of Operation: 0730 PM EST to 1120 PM EST
