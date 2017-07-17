@@ -14,6 +14,7 @@ Operation Warlord is a follow-up campaign of Operation Dessert Storm. The main p
 .. toctree::
    :maxdepth: 1
    
+   opreps/warlord/bradley_way
    opreps/warlord/lost_and_found
    opreps/warlord/sugar_voodoo
    opreps/warlord/georgetown
