@@ -106,6 +106,23 @@ Distinctions
 
 ****
 
+Goldie
+^^^^^^^^^^^^^^^^^
+Rank
+"""""""""""""""""
+
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
+
+Distinctions
+"""""""""""""""""
+ 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
+
+****
+
 
 Ironclaws
 ^^^^^^^^^^^^^^^^^
@@ -120,7 +137,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -155,7 +174,8 @@ Rank
 Distinctions
 """""""""""""""""
  
-...
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -173,7 +193,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -191,7 +213,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -228,7 +252,9 @@ Distinctions
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 .. image:: http://armafriday.com/intel/distinguishments/marksman.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge  
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord 
 
 ****
 
@@ -246,7 +272,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -282,7 +310,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -301,7 +331,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -360,7 +392,9 @@ Distinctions
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 .. image:: http://armafriday.com/intel/distinguishments/marksman.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge  
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord 
 
 ****
 
@@ -378,11 +412,13 @@ Distinctions
 """""""""""""""""
 
 .. image:: http://armafriday.com/intel/distinguishments/recruiter.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 .. image:: http://armafriday.com/intel/distinguishments/marksman.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge  
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord 
 
 ****
 
@@ -400,7 +436,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -417,7 +455,9 @@ Distinctions
 """""""""""""""""
  
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -432,8 +472,9 @@ Rank
 
 Distinctions
 """""""""""""""""
- 
-none
+
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -453,7 +494,9 @@ Distinctions
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
 .. image:: http://armafriday.com/intel/distinguishments/recruiter.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 
 ****
 
@@ -472,5 +515,7 @@ Distinctions
 .. image:: http://armafriday.com/intel/distinguishments/recruiter.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
 .. image:: http://armafriday.com/intel/distinguishments/dessert_storm.gif
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 ****
