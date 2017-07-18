@@ -40,7 +40,7 @@ Operation Dessert Storm..
 Operation Warlord..
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/warlord.gif
+.. image:: http://armafriday.com/intel/distinguishments/warlord.png
 
 **Recipients:** Armedman, Coletrane, Foozlekiller, Frethen, FrosD, Goldie, Ironclaws, JoeVisitor, Kilthor, Korde, MRF, Raytheon, Reishi, Saboathi, Shurp, Skifton, Stalker, Tantasqua, Teo, TonyMo, TypicalPhineas, Whiplash
 
