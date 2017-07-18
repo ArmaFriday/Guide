@@ -302,8 +302,8 @@ Reishi
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+.. image:: http://armafriday.com/intel/distinguishments/regular.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
     :width: 70px
     
 Distinctions
