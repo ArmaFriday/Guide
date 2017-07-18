@@ -37,6 +37,14 @@ Operation Dessert Storm..
 
 **Recipients:** Whiplash, TypicalPhineas, Saboathi, Armedman84, Stalker, Korde, Schaduw, Foozlekiller, Coletrane, Skifton, Raz, Montana, MRF, Raytheon, Ironclaws, Frethen, Tantasqua, Kilthor, Reishimu, SillyRabbit, Teo, Jyntuu
 
+Operation Warlord..
+"""""""""""""""""
+
+.. image:: http://armafriday.com/intel/distinguishments/warlord.gif
+
+**Recipients:** Armedman, Coletrane, Foozlekiller, Frethen, FrosD, Goldie, Ironclaws, JoeVisitor, Kilthor, Korde, MRF, Raytheon, Reishi, Saboathi, Shurp, Skifton, Stalker, Tantasqua, Teo, TonyMo, TypicalPhineas, Whiplash
+
+
 =================================================
 Ranks
 =================================================
