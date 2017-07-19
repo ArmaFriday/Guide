@@ -33,7 +33,7 @@ Mission Details
 
 The team was tasked to assault Blue Pearl Industrial Port. For this mission they would have the assistance of an IFV (Infantry Fighting Vehicle) M2 Bradley.
 
-.. image:: http://armafriday.com/intel/maps/warlord/bradley_way/1.jpg
+.. image:: http://armafriday.com/intel/maps/warlord/bradley_way/1.png
    :height: 500px
 
 
