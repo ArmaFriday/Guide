@@ -31,7 +31,10 @@ Unit Details
 Mission Details
 =================================================
 
-Execution..
+The team was tasked to assault Blue Pearl Industrial Port. For this mission they would have the assistance of an IFV (Infantry Fighting Vehicle) M2 Bradley.
+
+.. image:: http://armafriday.com/intel/maps/warlord/bradley_way/1.jpg
+   :height: 500px
 
 
 Intel..
@@ -40,15 +43,11 @@ Intel..
 * `Staggered column marching songs <https://clips.twitch.tv/ArtsyGlutenFreeLapwingWow>`_
 * `Reishi comes within an inch of a mine <https://clips.twitch.tv/GorgeousShakingPigeonBabyRage>`_
 
-=================================================
-Team Retrospective
-=================================================
-
 
 =================================================
 Screenshots
 =================================================
 
-.. image:: http://armafriday.com/intel/screenshots/warlord/bridge_over_troubled_water/1.jpg
+.. image:: http://armafriday.com/intel/screenshots/warlord/bradley_way/1.jpg
    :height: 500px
 
