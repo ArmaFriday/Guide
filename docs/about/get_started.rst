@@ -56,3 +56,5 @@ The type of player you should be to fit in
 * You are able to join ARMA Friday sessions at least once a month.
 * You are interested to be a fire-team member, or lead one.
 * You understand ARMA Friday is not about you as the main actor, but a symphony in which you play your part.
+
+If you're ready for more you can start looking at some of the other material that is available on this website.
