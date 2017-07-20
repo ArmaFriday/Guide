@@ -28,5 +28,6 @@ Information:
 .. toctree::
    :maxdepth: 1
    :caption: Manuals
-
+   
+   manuals/roles
    manuals/roe
