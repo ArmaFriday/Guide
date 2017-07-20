@@ -24,3 +24,10 @@ Information:
    about/unit_roster
    about/distinctions
    about/operational_history
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Guides
+   
+   manuals/roles
+   manuals/roe
