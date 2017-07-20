@@ -47,6 +47,10 @@ If the ArmaFriday session has 15 players or more, we will most likely adopt a 3 
 * 2x Laser designator batteries
 
 =================================================
+Combat Medic
+=================================================
+
+=================================================
 Fireteam Leader
 =================================================
 
