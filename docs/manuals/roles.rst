@@ -40,5 +40,9 @@ The Platoon Leader / Squad Leader
 
 If the ArmaFriday session has 15 players or more, we will most likely adopt a 3 tiered hierarchy to play the mission with a Platoon Leader (PL) > Squad Leader (SL) > Fireteams. A platoon leader can control up to 3 elements. This could be 3 squads, 2 squads and a vehicle, a single squad and a vehicle or anything in between.
 
-The PL/SL carries a 
+**Loadout**
+
+*ANARC-210 Long range radio (Backpack)
+*Laser designator
+*2x Laser designator batteries
 
