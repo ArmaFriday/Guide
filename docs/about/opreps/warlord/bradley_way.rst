@@ -42,7 +42,6 @@ Intel..
 * `M2 Bradley takes shots at jeep <https://clips.twitch.tv/OpenBlushingNuggetsFloof>`_
 * `Squad stuck in a minefield <https://clips.twitch.tv/GleamingScaryLaptopWOOP>`_
 * `M2 deploys smoke screen <https://clips.twitch.tv/AlluringAlluringSwallowOSsloth>`_
-* `M2 deploys smoke screen <https://clips.twitch.tv/AlluringAlluringSwallowOSsloth>`_
 
 
 =================================================
