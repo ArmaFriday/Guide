@@ -42,7 +42,7 @@ If the ArmaFriday session has 15 players or more, we will most likely adopt a 3 
 
 **Loadout**
 
-*ANARC-210 Long range radio (Backpack)
-*Laser designator
-*2x Laser designator batteries
+* ANARC-210 Long range radio (Backpack)
+* Laser designator
+* 2x Laser designator batteries
 
