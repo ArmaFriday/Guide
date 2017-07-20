@@ -19,6 +19,8 @@ Listen to your fireteam leader. And when in doubt, as him for clarifications on:
 * What vector you should be covering.
 * Where you should be at in the formation, if a formation is applied.
 
+**Responsability**
+
 As a rifleman, your core responsabilities are:
 
 * Maintaining appropriate distance from your team members: Don't bundle up closely together with your fireteam. Keep appropriate distance in the formation to avoid unnecessary casualties from Anti-Personal mines or grenades.
