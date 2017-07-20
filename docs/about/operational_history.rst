@@ -5,6 +5,17 @@ Here you will find the list of ArmaFriday operations. Each OPREP is structured a
 
 
 =================================================
+Operation Mountain Resolve
+=================================================
+
+Operation Mountain resolve is a series of connected missions in a fictional terrain much like the mountainous area of Afganistan. A campaign without an overarching storyline.
+
+.. toctree::
+   :maxdepth: 1
+   
+   opreps/bamyn/ardent_sunrise
+
+=================================================
 Operation Warlord
 =================================================
 
