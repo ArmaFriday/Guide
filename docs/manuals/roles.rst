@@ -35,7 +35,7 @@ As a rifleman, your core responsabilities are:
 * Stick with your buddy if you have one: an Assistant Light Machine Gunner sticks with the Light Machine Gunner in case he needs ammo.
 
 =================================================
-The Platoon Leader / Squad Leader
+Platoon Leader / Squad Leader
 =================================================
 
 If the ArmaFriday session has 15 players or more, we will most likely adopt a 3 tiered hierarchy to play the mission with a Platoon Leader (PL) > Squad Leader (SL) > Fireteams. A platoon leader can control up to 3 elements. This could be 3 squads, 2 squads and a vehicle, a single squad and a vehicle or anything in between.
