@@ -13,7 +13,7 @@ Operation Mountain resolve is a series of connected missions in a fictional terr
 .. toctree::
    :maxdepth: 1
    
-   opreps/bamyn/ardent_sunrise
+   opreps/bamyan/ardent_sunrise
 
 =================================================
 Operation Warlord
