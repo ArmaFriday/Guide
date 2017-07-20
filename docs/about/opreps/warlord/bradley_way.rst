@@ -39,9 +39,10 @@ The team was tasked to assault Blue Pearl Industrial Port. For this mission they
 
 Intel..
 """""""""""""""""
-* `Tavu invasion <https://clips.twitch.tv/AuspiciousCrepuscularEggArgieB8>`_
-* `Staggered column marching songs <https://clips.twitch.tv/ArtsyGlutenFreeLapwingWow>`_
-* `Reishi comes within an inch of a mine <https://clips.twitch.tv/GorgeousShakingPigeonBabyRage>`_
+* `M2 Bradley takes shots at jeep <https://clips.twitch.tv/OpenBlushingNuggetsFloof>`_
+* `Squad stuck in a minefield <https://clips.twitch.tv/GleamingScaryLaptopWOOP>`_
+* `M2 deploys smoke screen <https://clips.twitch.tv/AlluringAlluringSwallowOSsloth>`_
+* `M2 deploys smoke screen <https://clips.twitch.tv/AlluringAlluringSwallowOSsloth>`_
 
 
 =================================================
