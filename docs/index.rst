@@ -30,4 +30,3 @@ Information:
    :caption: Manuals
    
    manuals/roles
-   manuals/roe
