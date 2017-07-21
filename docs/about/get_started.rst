@@ -2,6 +2,18 @@ How to get started with Arma Friday
 =========================================================================
 
 =================================================
+The type of player you should be to fit in
+=================================================
+
+* You are 18 years of age or older and a mature individual.
+* You enjoy the feeling of being part of something bigger than just yourself.
+* You are able to compromise.
+* You've never been kicked from clans, guilds or other ARMA units.
+* You are able to join ARMA Friday sessions at least once a month.
+* You are interested to be a fire-team member, or lead one.
+* You understand ARMA Friday is not about you as the main actor, but a symphony in which you play your part.
+
+=================================================
 Installation
 =================================================
 
@@ -44,17 +56,5 @@ Information you need to know
 Arma Friday is streamed by the `TypicalPhineas Twitch channel <https://www.twitch.tv/typicalphineas>`_. This comes with two implicit rules: We jest, joke around and have fun, but we keep our language PG-13. Phineas retains the perogative to remove any player from his stream. http://armafriday.com/#about
 
 A brief outline of what ARMA Friday is and the kind of players we are looking for can be found on `armafriday.com <http://armafriday.com/#about>`_
-
-=================================================
-The type of player you should be to fit in
-=================================================
-
-* You are 18 years of age or older and a mature individual.
-* You enjoy the feeling of being part of something bigger than just yourself.
-* You are able to compromise.
-* You've never been kicked from clans, guilds or other ARMA units.
-* You are able to join ARMA Friday sessions at least once a month.
-* You are interested to be a fire-team member, or lead one.
-* You understand ARMA Friday is not about you as the main actor, but a symphony in which you play your part.
 
 If you're ready for more you can start looking at some of the other material that is available on this website.
