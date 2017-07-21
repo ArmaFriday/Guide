@@ -42,9 +42,16 @@ If the ArmaFriday session has 15 players or more, we will most likely adopt a 3 
 
 **Loadout**
 
-* ANARC-210 Long range radio (Backpack)
+* M4 Carryhandle
+* M68 Red Dot Scope
+* 6x 5.56mm 30rnd Mk318
+* AN/ARC-210 Long range radio (Backpack)
+* AN/PRC-152 SR Radio
 * Laser designator
 * 2x Laser designator batteries
+* 1x First Aid Kit
+* MicroDAGR GPS
+* 2x Cable Tie
 
 =================================================
 Combat Medic
