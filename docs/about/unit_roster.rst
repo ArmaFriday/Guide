@@ -375,6 +375,8 @@ Distinctions
  
 .. image:: http://armafriday.com/intel/distinguishments/warlord.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
+.. image:: http://armafriday.com/intel/distinguishments/marksman.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
 
 ****
 
