@@ -105,6 +105,7 @@ Granted to those who have successfully completed the marksman challenge. Talk to
 * Skifton: 40 points
 * Foozlekiller: 39 points
 * Stalker: 36 points
+* Shurp: 35 points
 * MRF: 34 points
 * Goldie: 31 points
 
