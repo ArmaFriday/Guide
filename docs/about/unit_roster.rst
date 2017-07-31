@@ -187,8 +187,8 @@ Kilthor
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/expert.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#expert
     :width: 70px
 
 Distinctions
