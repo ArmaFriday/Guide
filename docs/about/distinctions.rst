@@ -77,13 +77,6 @@ Veteran
 
 Someone who has participated in more than 36 mission.
 
-Specialist
-"""""""""""""""""
-
-.. image:: http://armafriday.com/intel/distinguishments/specialist.png
-
-Someone who has obtained all specialist badges.
-
 NCO
 """""""""""""""""
 
