@@ -32,4 +32,16 @@ The team was deployed in a forested area close to moscow and perform an assault 
 
 Intel..
 """""""""""""""""
-* `Elbow shots can be deadly <https://clips.twitch.tv/SpoopyDeliciousPeachVoHiYo>`_
+* `Humvee Column <https://clips.twitch.tv/PolishedRealWalletCoolStoryBro>`_
+
+* `Humvee Line <https://clips.twitch.tv/HedonisticSaltyPenguinCeilingCat>`_
+
+
+=================================================
+Screenshots
+=================================================
+.. image:: http://armafriday.com/intel/maps/hedgerow_mayhem/1.jpg
+
+.. image:: http://armafriday.com/intel/maps/hedgerow_mayhem/2.jpg
+
+.. image:: http://armafriday.com/intel/maps/hedgerow_mayhem/3.jpg
