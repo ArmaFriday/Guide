@@ -40,3 +40,10 @@ We pushed the game mechanics to the limit and were not able to pull off all game
 * Zeus placed bases were not visible on the map. making coordination between teams difficult
 * AI helicopters performing akwardly when near enemy units (pro tip: use careless mode)
 * Difficult as Zeus to supply the team with weapons and ammo that doesn't make everyone go crazy unrealistic
+
+=================================================
+Screenshots
+=================================================
+
+
+.. image:: http://armafriday.com/intel/screenshots/troyan_horse/1.jpg
