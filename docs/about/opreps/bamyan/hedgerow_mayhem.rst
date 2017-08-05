@@ -40,8 +40,8 @@ Intel..
 =================================================
 Screenshots
 =================================================
-.. image:: http://armafriday.com/intel/maps/hedgerow_mayhem/1.jpg
+.. image:: http://armafriday.com/intel/screenshots/hedgerow_mayhem/1.jpg
 
-.. image:: http://armafriday.com/intel/maps/hedgerow_mayhem/2.jpg
+.. image:: http://armafriday.com/intel/screenshots/hedgerow_mayhem/2.jpg
 
-.. image:: http://armafriday.com/intel/maps/hedgerow_mayhem/3.jpg
+.. image:: http://armafriday.com/intel/screenshots/hedgerow_mayhem/3.jpg
