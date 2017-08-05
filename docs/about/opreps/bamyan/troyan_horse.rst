@@ -9,17 +9,16 @@ Unit Details
 
 `Google sheet of squad makeup <https://docs.google.com/spreadsheets/d/19VcGr-8J8N5EWROFF8CLdHfyoO_VZNujwlyIOk3pLQQ/edit?usp=sharing>`_
 
-* TypicalPhineas - Zeus
-* Whiplash - SL A
-* Kilthor - Medic A
-* MRF - FTL A1
-* Stalker - AT A1
-* Reishi - R A1
-* Foozlekiller - R A1
-* Frethen - R A1 
-* Tantasqua - HMG A2
-* Ironclaws - Assist. HMG A2
-* Skifton - Sniper
+* Whiplash - Zeus
+* Skifton - SL A
+* MRF - Medic A
+* Ironclaws - LMG A
+* Frethen - ALMG A
+* Kilthor - G A
+* Goldie - R A
+* Foozle - AB A
+* JoeVisitor - R A
+* Acehard / Chris - UAV Specialist A
 
 =================================================
 Mission Details
