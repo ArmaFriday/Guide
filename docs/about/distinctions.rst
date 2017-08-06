@@ -21,6 +21,7 @@ Recruiter Ribbon..
 * Whiplash: for bringing in Ironclaws and Teo
 * TypicalPhineas: for bringing in JoeVisitor
 * JoeVisitor: for bringing in Goldie
+* MRF: for bringing in AceHard
 
 
 
