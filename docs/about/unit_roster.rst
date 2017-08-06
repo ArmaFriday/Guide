@@ -4,7 +4,23 @@ Unit Roster
 Roster to keep track of ranks is `here`_
 
 .. _here: https://docs.google.com/spreadsheets/d/1mj8S-fOnc1Hvx5K25wttQv5JvANGLJFKMvsjoKcZnmQ/edit?usp=sharing
-    
+
+AceHard
+^^^^^^^^^^^^^^^^^
+Rank
+"""""""""""""""""
+
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
+
+Distinctions
+"""""""""""""""""
+ 
+...
+
+
+****
 
 Armedman84
 ^^^^^^^^^^^^^^^^^
@@ -257,6 +273,8 @@ Distinctions
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
 .. image:: http://armafriday.com/intel/distinguishments/warlord.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord 
+.. image:: http://armafriday.com/intel/distinguishments/recruiter.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
 
 ****
 
