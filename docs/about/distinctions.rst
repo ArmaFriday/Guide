@@ -22,6 +22,7 @@ Recruiter Ribbon..
 * TypicalPhineas: for bringing in JoeVisitor
 * JoeVisitor: for bringing in Goldie
 * MRF: for bringing in AceHard
+* Shurp: for bringing in RaisingPhoenix
 
 
 
