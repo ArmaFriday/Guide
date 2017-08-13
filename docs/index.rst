@@ -24,6 +24,7 @@ Information:
    about/unit_roster
    about/distinctions
    about/operational_history
+   about/standing_orders
 
 .. toctree::
    :maxdepth: 1
