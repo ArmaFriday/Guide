@@ -4,6 +4,7 @@ Unit Roster
 Roster to keep track of ranks is `here`_
 
 .. _here: https://docs.google.com/spreadsheets/d/1mj8S-fOnc1Hvx5K25wttQv5JvANGLJFKMvsjoKcZnmQ/edit?usp=sharing
+.. _caldera: https://docs.google.com/spreadsheets/d/1mj8S-fOnc1Hvx5K25wttQv5JvANGLJFKMvsjoKcZnmQ/edit?usp=sharing
 
 AceHard
 ^^^^^^^^^^^^^^^^^
@@ -17,7 +18,7 @@ Rank
 Distinctions
 """""""""""""""""
  
-...
+Operation Caldera Survivor
 
 
 ****
@@ -67,8 +68,8 @@ Foozlekiller
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/expert.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#expert
     :width: 70px
 
 Distinctions
@@ -91,8 +92,8 @@ Frethen
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/expert.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#expert
     :width: 70px
 
 Distinctions
@@ -102,6 +103,8 @@ Distinctions
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-dessert-storm 
 .. image:: http://armafriday.com/intel/distinguishments/warlord.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
+    
+Operation Caldera Survivor
 
 ****
 
@@ -137,7 +140,9 @@ Distinctions
 .. image:: http://armafriday.com/intel/distinguishments/warlord.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
 .. image:: http://armafriday.com/intel/distinguishments/marksman.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge
+    
+Operation Caldera Survivor
 
 ****
 
@@ -147,8 +152,8 @@ Ironclaws
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/expert.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#expert
     :width: 70px
 
 Distinctions
@@ -423,8 +428,8 @@ Skifton
 Rank
 """""""""""""""""
 
-.. image:: http://armafriday.com/intel/distinguishments/regular.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#regular
+.. image:: http://armafriday.com/intel/distinguishments/expert.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#expert
     :width: 70px
 
 Distinctions
@@ -436,6 +441,8 @@ Distinctions
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
 .. image:: http://armafriday.com/intel/distinguishments/warlord.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord 
+    
+Operation Caldera Survivor
 
 ****
 
