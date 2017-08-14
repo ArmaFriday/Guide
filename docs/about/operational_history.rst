@@ -13,7 +13,7 @@ Operation Mountain resolve is a series of connected missions in a fictional terr
 .. toctree::
    :maxdepth: 1
    
-   oprets/bamyan/caldera
+   opreps/bamyan/caldera
    opreps/bamyan/troyan_horse
    opreps/bamyan/hedgerow_mayhem
    opreps/bamyan/ardent_sunrise
