@@ -82,7 +82,9 @@ Distinctions
 .. image:: http://armafriday.com/intel/distinguishments/marksman.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge 
 .. image:: http://armafriday.com/intel/distinguishments/warlord.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord 
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
+    
+Operation Caldera Survivor
 
 ****
 
@@ -402,6 +404,8 @@ Distinctions
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#marskman-challenge
 .. image:: http://armafriday.com/intel/distinguishments/recruiter.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#recruiter-ribbon
+    
+Operation Caldera Survivor
 
 ****
 
