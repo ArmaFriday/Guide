@@ -1,4 +1,4 @@
-Roles at ArmaFriday
+Rifleman's Guide
 =========================================================================
 
 In a typical ArmaFriday game, we coordinate two fireteams or more towards common objectives. Teamwork is at the forefront and as such we balance the loadouts of the players in a way that encourages the most amount of teamplay and close-range combat.
@@ -33,59 +33,3 @@ As a rifleman, your core responsabilities are:
 * Don't clutter up radio voice channels: sometimes too much information is a bad thing. Be consice.
 * Be mindful of people's lanes of fire: don't get yourself killed by crossing them.
 * Stick with your buddy if you have one: an Assistant Light Machine Gunner sticks with the Light Machine Gunner in case he needs ammo.
-
-=================================================
-Platoon Leader / Squad Leader
-=================================================
-
-If the ArmaFriday session has 15 players or more, we will most likely adopt a 3 tiered hierarchy to play the mission with a Platoon Leader (PL) > Squad Leader (SL) > Fireteams. A platoon leader can control up to 3 elements. This could be 3 squads, 2 squads and a vehicle, a single squad and a vehicle or anything in between.
-
-**Loadout**
-
-* M4 Carryhandle
-* M68 Red Dot Scope
-* 6x 5.56mm 30rnd Mk318
-* AN/ARC-210 Long range radio (Backpack)
-* AN/PRC-152 SR Radio
-* Laser designator
-* 2x Laser designator batteries
-* 1x First Aid Kit
-* MicroDAGR GPS
-* 2x Cable Tie
-
-=================================================
-Combat Medic
-=================================================
-
-=================================================
-Fireteam Leader
-=================================================
-
-=================================================
-Light Machine Gunner
-=================================================
-
-=================================================
-Assist. Light Machine Gunner
-=================================================
-
-=================================================
-Grenadier
-=================================================
-
-=================================================
-Anti-Tank Infantryman
-=================================================
-
-=================================================
-Assist. Anti-Tank Infantryman
-=================================================
-
-=================================================
-Ammo Bearer
-=================================================
-
-=================================================
-Rifleman (Light)
-=================================================
-
