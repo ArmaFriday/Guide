@@ -167,6 +167,8 @@ Distinctions
  
 .. image:: http://armafriday.com/intel/distinguishments/warlord.png
     :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#operation-warlord
+    
+Operation Caldera Survivor
 
 ****
 
