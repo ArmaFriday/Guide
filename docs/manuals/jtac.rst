@@ -20,11 +20,11 @@ Requesting Air Support as JTAC
 
 Here's the "5-line" system to use on communicating with air assets as a JTAC:
 
-# Callsign
-# Target's General Position
-# Target Description
-# Ordanance Requested
-# Ingress / Egress Direction
+1. Callsign
+2. Target's General Position
+3. Target Description
+4. Ordanance Requested
+5. Ingress / Egress Direction
 
 (Optional): Remarks such as the location and distance of friendlies relative to target
 
