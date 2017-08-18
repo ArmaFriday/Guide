@@ -32,3 +32,7 @@ Information:
    
    manuals/roles
    manuals/roe
+   
+   
+.. image:: http://armafriday.com/intel/logo_green.png
+   :height: 500px
