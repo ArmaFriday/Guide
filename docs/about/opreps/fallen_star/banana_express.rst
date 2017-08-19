@@ -60,11 +60,11 @@ Team Retrospective
 Screenshots
 =================================================
 
-.. image:: http://armafriday.com/intel/screenshots/falling-star/1.jpg
+.. image:: http://armafriday.com/intel/screenshots/falling_star/1.jpg
    :height: 500px
    
-.. image:: http://armafriday.com/intel/screenshots/falling-star/2.jpg
+.. image:: http://armafriday.com/intel/screenshots/falling_star/2.jpg
    :height: 500px
    
-.. image:: http://armafriday.com/intel/screenshots/falling-star/3.jpg
+.. image:: http://armafriday.com/intel/screenshots/falling_star/3.jpg
    :height: 500px
