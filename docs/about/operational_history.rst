@@ -12,6 +12,7 @@ Panthera just suffered from a famine and tense political discourse during its el
 .. toctree::
    :maxdepth: 1
    
+   opreps/fallen_star/alpha_electric
    opreps/fallen_star/banana_express
 
 =================================================
