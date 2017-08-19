@@ -12,7 +12,7 @@ Panthera just suffered from a famine and tense political discourse during its el
 .. toctree::
    :maxdepth: 1
    
-   opreps/falleb_star/banana_express
+   opreps/fallen_star/banana_express
 
 =================================================
 2017 Random Missions
