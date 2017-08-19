@@ -12,7 +12,7 @@ Operation Mountain resolve is a series of connected missions in a fictional terr
 .. toctree::
    :maxdepth: 1
    
-   opreps/falling_star/banana_express
+   opreps/falleb_star/banana_express
 
 =================================================
 2017 Random Missions
