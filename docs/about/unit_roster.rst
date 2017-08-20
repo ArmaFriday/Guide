@@ -10,23 +10,6 @@ Roster to keep track of ranks is `here`_
 Active
 =========================
 
-AceHard
-^^^^^^^^^^^^^^^^^
-Rank
-"""""""""""""""""
-
-.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
-    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
-    :width: 70px
-
-Distinctions
-"""""""""""""""""
- 
-Operation Caldera Survivor
-
-
-****
-
 Armedman84
 ^^^^^^^^^^^^^^^^^
 Rank
@@ -426,6 +409,23 @@ Distinctions
 =========================
 Inactive
 =========================
+
+AceHard
+^^^^^^^^^^^^^^^^^
+Rank
+"""""""""""""""""
+
+.. image:: http://armafriday.com/intel/distinguishments/new_guy.png
+    :target: http://armafriday.readthedocs.io/en/latest/about/distinctions.html#new-guy
+    :width: 70px
+
+Distinctions
+"""""""""""""""""
+ 
+Operation Caldera Survivor
+
+
+****
 
 Coletrane
 ^^^^^^^^^^^^^^^^^
