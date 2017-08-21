@@ -33,6 +33,7 @@ Information:
    manuals/roles
    manuals/roe
    manuals/jtac
+   manuals/ace
    
    
 .. image:: http://armafriday.com/intel/logo_green.png
