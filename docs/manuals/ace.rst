@@ -6,7 +6,7 @@ Your fireteam leader might request an ACE report, which in turn might have been 
 Components of an ACE report
 =================================================
 
-**Ammunition** - Amount of ammunition left. When you collect this from your fireteam, they should send it up to you as a color. Green means that you have plenty of ammunition remaining, Yellow means that they have expended roughly half of their initial load, but are still capable of continuing mission, and Red means that they are dangerously close to running out of ammunition (2 magazines or less) and are unable to continue the mission effectively.
+**Ammunition** - Amount of primary ammunition left. When you collect this from your fireteam, they should send it up to you as a color. Green means that you have plenty of ammunition remaining, Yellow means that they have expended roughly half of their initial load, but are still capable of continuing mission, and Red means that they are dangerously close to running out of ammunition (2 magazines or less) and are unable to continue the mission effectively.
 
 **Casualty** - Casualties sustained. Green means that your soldiers have sustained no injuries, Yellow means they are in need of first aid and Red signifies a soldier is down.
 
