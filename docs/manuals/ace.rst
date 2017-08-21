@@ -12,7 +12,12 @@ Components of an ACE report
 
 **Equipment** - Any equipment expended/lost. If there is no change, report up as green. If any equipment was expended, report up the type and number of equipment that you have left, eg. **1 AT rocket fired, 2 rockets left**. Or; "running low on smoke grenades".
 
-Take note that AT rounds, smoke grenades, regular grenades or grenadier grenades are part of the equipment category.
++----------------------------------------------------------------------------------------------------------------------+
+|        !NOTE!                                                                                                        |
+|                                                                                                                      |
+| Take note that AT rounds, smoke grenades, regular grenades or grenadier grenades are part of the equipment category. |
++----------------------------------------------------------------------------------------------------------------------+
+
 
 =================================================
 Tips for the fireteam members
