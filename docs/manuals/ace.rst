@@ -12,6 +12,13 @@ Components of an ACE report
 
 **Equipment** - Any equipment expended/lost. If there is no change, report up as green. If any equipment was expended, report up the type and number of equipment that you have left, eg. **1 AT rocket fired, 2 rockets left**. Or; "running low on smoke grenades".
 
+.. note:: This is a note admonition.
+   This is the second line of the first paragraph.
+
+   - The note contains all indented body elements
+     following.
+   - It includes this bullet list.
+
 +----------------------------------------------------------------------------------------------------------------------+
 |        !NOTE!                                                                                                        |
 |                                                                                                                      |
