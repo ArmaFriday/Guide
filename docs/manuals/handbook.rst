@@ -7,3 +7,13 @@ THe purpose of this handbook is to act as a quick reference to our best practice
 Chapters
 =================================================
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Chapters
+   
+   fireteam
+   squad
+   roles
+   communication
+   tactics
+   checklist
