@@ -25,6 +25,7 @@ Information:
    about/distinctions
    about/operational_history
    about/standing_orders
+   manuals/handbook
 
 .. toctree::
    :maxdepth: 1
