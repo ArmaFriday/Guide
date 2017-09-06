@@ -12,7 +12,9 @@ Panthera just suffered from a famine and tense political discourse during its el
 .. toctree::
    :maxdepth: 1
    
-   opreps/fallen_star/alpha_electric
+   * 08/09/2017 - #4: Mountain Fortress
+   * 01/09/2017 - #3: Chemical Fright
+   * 25/08/2017 - #2: Alpha Electric
    opreps/fallen_star/banana_express
 
 =================================================
